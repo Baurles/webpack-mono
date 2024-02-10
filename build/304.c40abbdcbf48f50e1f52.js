@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfit=self.webpackChunkfit||[]).push([[304],{304:(e,t,u)=>{u.r(t),u.d(t,{default:()=>c});var n=u(504);const c=function(){return n.createElement("h1",null,"About")}}}]);
