@@ -1,7 +1,6 @@
 import React,{useState} from 'react';
 import "./Reset.module.scss";
 import "./App.module.scss";
-import  {Weather} from './Weather';
 
 
 
@@ -22,7 +21,7 @@ export const App = () => {
 
     return(
         <div>
-            <Weather />
+            
         </div>
     );
     
